@@ -1,2 +1,3 @@
 # NLP_assignment1
-NLP 1st assignment solution
+Karina Denisova BS21-DS01
+k.denisova@innopolis.university
